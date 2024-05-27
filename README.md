@@ -42,4 +42,8 @@ Normocytic Anemia: Low hemoglobin and normal MCV (80-100 fL).
 Macrocytic Anemia: Low hemoglobin and high MCV (>100 fL).
 Microcytic Anemia: Low hemoglobin and low MCV (< 80 fL).
 
+## Example
+Diagnosis: Iron Deficiency Anemia
+
+
 
